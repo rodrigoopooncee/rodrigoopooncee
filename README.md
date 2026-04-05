@@ -1,16 +1,22 @@
-## Hi there 👋
+# Desarrollo Web
+## Este es el perfil de Desarrollo Web
 
-<!--
-**rodrigoopooncee/rodrigoopooncee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gustos personales
 
-Here are some ideas to get you started:
+- Ir al gimnasio, hacer caminatas, competir en baloncesto (o cualquier deporte), quedar con amigos, mi pareja...
+- Desarrollo web
+- Aprender sobre psicología y negocios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> El código siempre tiene que ser lo más simple posible para que mis compañeros lo entiendan
+> sacar soluciones complejas a problemas difíciles
+> sólo es el primer paso
+> Luego deberás mejorar dicha solución 
+> para que sea sencilla
+
+## Tecnologías
+
+- **Mongo**
+- **JavaScript**
+- **ReactJS**
+- **Typescript**
+- **Supabase**
